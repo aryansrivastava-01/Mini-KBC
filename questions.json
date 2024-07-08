@@ -1,0 +1,309 @@
+{
+    "easy": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "Berlin", "Madrid", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "What is the capital of Japan?",
+        "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+        "answer": "Tokyo"
+      },
+      {
+        "question": "What is the largest continent?",
+        "options": ["Asia", "Africa", "Europe", "Antarctica"],
+        "answer": "Asia"
+      },
+      {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Avocado", "Tomato", "Onion", "Garlic"],
+        "answer": "Avocado"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+        "answer": "Mars"
+      },
+      {
+        "question": "What is the tallest mammal?",
+        "options": ["Elephant", "Giraffe", "Whale", "Rhino"],
+        "answer": "Giraffe"
+      },
+      {
+        "question": "What color are bananas when they are ripe?",
+        "options": ["Yellow", "Green", "Red", "Blue"],
+        "answer": "Yellow"
+      },
+      {
+        "question": "How many days are in a week?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      },
+      {
+        "question": "What is the freezing point of water?",
+        "options": ["0°C", "32°C", "100°C", "212°C"],
+        "answer": "0°C"
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "2"
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "answer": "Canberra"
+      },
+      {
+        "question": "How many continents are there?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      },
+      {
+        "question": "What is the primary language spoken in Spain?",
+        "options": ["Spanish", "English", "French", "Italian"],
+        "answer": "Spanish"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Heart", "Skin", "Liver", "Lung"],
+        "answer": "Skin"
+      },
+      {
+        "question": "What is the capital of Italy?",
+        "options": ["Rome", "Milan", "Naples", "Florence"],
+        "answer": "Rome"
+      },
+      {
+        "question": "Which planet is closest to the sun?",
+        "options": ["Earth", "Venus", "Mars", "Mercury"],
+        "answer": "Mercury"
+      },
+      {
+        "question": "What is the primary ingredient in a traditional Caesar salad?",
+        "options": ["Lettuce", "Kale", "Spinach", "Arugula"],
+        "answer": "Lettuce"
+      },
+      {
+        "question": "What is the boiling point of water?",
+        "options": ["100°C", "212°C", "50°C", "90°C"],
+        "answer": "100°C"
+      },
+      {
+        "question": "What is the largest bird?",
+        "options": ["Ostrich", "Eagle", "Penguin", "Albatross"],
+        "answer": "Ostrich"
+      }
+    ],
+    "medium": [
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Jupiter"
+      },
+      {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "options": ["Jane Austen", "Charlotte Bronte", "Emily Dickinson", "Mary Shelley"],
+        "answer": "Jane Austen"
+      },
+      {
+        "question": "What is the square root of 64?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "8"
+      },
+      {
+        "question": "What is the largest desert in the world?",
+        "options": ["Sahara", "Gobi", "Kalahari", "Arctic"],
+        "answer": "Sahara"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+        "answer": "Leonardo da Vinci"
+      },
+      {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Platinum"],
+        "answer": "Diamond"
+      },
+      {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+        "answer": "Ottawa"
+      },
+      {
+        "question": "How many valves does the human heart have?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "4"
+      },
+      {
+        "question": "What is the chemical symbol for sodium?",
+        "options": ["Na", "S", "So", "Sn"],
+        "answer": "Na"
+      },
+      {
+        "question": "What is the largest bone in the human body?",
+        "options": ["Femur", "Humerus", "Tibia", "Fibula"],
+        "answer": "Femur"
+      },
+      {
+        "question": "What is the capital of Brazil?",
+        "options": ["Rio de Janeiro", "Sao Paulo", "Brasilia", "Salvador"],
+        "answer": "Brasilia"
+      },
+      {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+        "answer": "Albert Einstein"
+      },
+      {
+        "question": "What is the speed of light?",
+        "options": ["299,792,458 m/s", "150,000,000 m/s", "300,000,000 m/s", "299,792,458 km/s"],
+        "answer": "299,792,458 m/s"
+      },
+      {
+        "question": "What is the smallest country in the world?",
+        "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+        "answer": "Vatican City"
+      },
+      {
+        "question": "Who is known as the 'Father of Computers'?",
+        "options": ["Charles Babbage", "Alan Turing", "John von Neumann", "Steve Jobs"],
+        "answer": "Charles Babbage"
+      },
+      {
+        "question": "What is the chemical formula for water?",
+        "options": ["H2O", "CO2", "O2", "HO"],
+        "answer": "H2O"
+      },
+      {
+        "question": "What is the main component of the sun?",
+        "options": ["Hydrogen", "Oxygen", "Carbon", "Helium"],
+        "answer": "Hydrogen"
+      },
+      {
+        "question": "What is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile"
+      },
+      {
+        "question": "What is the capital of Egypt?",
+        "options": ["Cairo", "Alexandria", "Luxor", "Giza"],
+        "answer": "Cairo"
+      },
+      {
+        "question": "Who invented the telephone?",
+        "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+        "answer": "Alexander Graham Bell"
+      }
+    ],
+    "hard": [
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Fe", "Hg"],
+        "answer": "Au"
+      },
+      {
+        "question": "What is the capital of Kazakhstan?",
+        "options": ["Almaty", "Astana", "Shymkent", "Karaganda"],
+        "answer": "Astana"
+      },
+      {
+        "question": "Who wrote 'The Divine Comedy'?",
+        "options": ["Dante Alighieri", "Geoffrey Chaucer", "John Milton", "Homer"],
+        "answer": "Dante Alighieri"
+      },
+      {
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Mitochondria", "Nucleus", "Ribosome", "Golgi apparatus"],
+        "answer": "Mitochondria"
+      },
+      {
+        "question": "What is the smallest unit of matter?",
+        "options": ["Atom", "Molecule", "Proton", "Electron"],
+        "answer": "Atom"
+      },
+      {
+        "question": "What is the capital of Iceland?",
+        "options": ["Reykjavik", "Oslo", "Helsinki", "Copenhagen"],
+        "answer": "Reykjavik"
+      },
+      {
+        "question": "What is the largest type of whale?",
+        "options": ["Blue Whale", "Humpback Whale", "Sperm Whale", "Fin Whale"],
+        "answer": "Blue Whale"
+      },
+      {
+        "question": "Who is the author of 'Don Quixote'?",
+        "options": ["Miguel de Cervantes", "William Shakespeare", "Homer", "Victor Hugo"],
+        "answer": "Miguel de Cervantes"
+      },
+      {
+        "question": "What is the chemical symbol for potassium?",
+        "options": ["K", "P", "Pt", "Po"],
+        "answer": "K"
+      },
+      {
+        "question": "What is the largest moon of Saturn?",
+        "options": ["Titan", "Europa", "Ganymede", "Callisto"],
+        "answer": "Titan"
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Gregor Mendel"],
+        "answer": "Alexander Fleming"
+      },
+      {
+        "question": "What is the longest bone in the human body?",
+        "options": ["Femur", "Humerus", "Tibia", "Fibula"],
+        "answer": "Femur"
+      },
+      {
+        "question": "What is the study of fungi called?",
+        "options": ["Mycology", "Bacteriology", "Virology", "Botany"],
+        "answer": "Mycology"
+      },
+      {
+        "question": "What is the capital of Uruguay?",
+        "options": ["Montevideo", "Buenos Aires", "Asuncion", "Lima"],
+        "answer": "Montevideo"
+      },
+      {
+        "question": "Who developed the polio vaccine?",
+        "options": ["Jonas Salk", "Albert Sabin", "Louis Pasteur", "Edward Jenner"],
+        "answer": "Jonas Salk"
+      },
+      {
+        "question": "What is the chemical formula for methane?",
+        "options": ["CH4", "C2H6", "C3H8", "C4H10"],
+        "answer": "CH4"
+      },
+      {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+        "answer": "Nitrogen"
+      },
+      {
+        "question": "What is the capital of Azerbaijan?",
+        "options": ["Baku", "Tbilisi", "Yerevan", "Ashgabat"],
+        "answer": "Baku"
+      },
+      {
+        "question": "Who is the author of 'War and Peace'?",
+        "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Alexander Pushkin", "Anton Chekhov"],
+        "answer": "Leo Tolstoy"
+      },
+      {
+        "question": "What is the chemical symbol for iron?",
+        "options": ["Fe", "Ir", "In", "I"],
+        "answer": "Fe"
+      }
+    ]
+  }
+  
